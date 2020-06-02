@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sua file 4
+=======
+file cua tien
+>>>>>>> cb94fcb1ae26fe65f9a41f57342f1acf7aa952fd
