@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 xczxzcxfile cua duy
 asdasd
+=======
+file duy
+>>>>>>> df98efb1ab47f6c38d5ec98ead89166b39b4a08b
